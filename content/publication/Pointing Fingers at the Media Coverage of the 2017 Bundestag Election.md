@@ -1,4 +1,5 @@
 +++
+
 title = "Pointing Fingers at the Media? Coverage of the 2017 Bundestag Election"
 date = 2018-03-01
 draft = false
