@@ -29,3 +29,4 @@ image = "fast.jpg"
 caption = "Andrew Fast"
 
 +++
+Andrew grew up in Burnaby and graduated from Burnaby South high school. After a year living abroad he spent ten years working for the Vancouver Parks department tackling a variety of different positions. Searching for new challenges he returned to school in 2013 and earned an honours degree in political science from SFU in 2017. Andrew is currently completing his masters project which is focused on examining the heterogeneity of policy feedback based on psychological predispositions. He is also involved in a project with Dr. Steven Weldon and Marcus Macauley concerning the election of Donald Trump in 2016. Andrew’s primary research interests include political psychology, comparative politics and minority rights. In the fall of 2018 he will be transitioning into the PhD program here at SFU.
