@@ -1,7 +1,6 @@
 +++
 
-title = "Why do Women Vote
-Radical Right? Representation and Inclusion in Four Countries"
+title = "Why do Women Vote Radical Right? Representation and Inclusion in Four Countries"
 date = 2018-09-01
 draft = false
 
