@@ -29,3 +29,6 @@ image = "vanna.jpg"
 caption = "Vanna Lodders"
 
 +++
+Vanna Lodders is an incoming graduate student in the department of Political Science at SFU. In line with her background in Gender, Sexuality, and Women’s Studies in addition to Political Science, her central research interests include political behaviour, political psychology, women’s far-right party identification, and gendered responses to antifeminism and women’s representation in the far-right. Her undergraduate thesis explored the effects of the “gender context” (societal levels of gender inequality and degree to which women are represented as candidates in the far-right) on European women’s tendency to vote far-right.
+Her current research looks closer at how anti-feminist attitudes and mainstream party strategies influence far-right support. 
+To reach her, please email vlodders@sfu.ca.
